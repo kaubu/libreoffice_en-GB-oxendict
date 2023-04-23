@@ -5,7 +5,7 @@
     <identifier value="org.openoffice.en.hunspell.dictionaries" />
 	
     <display-name>
-        <name lang="en">Oxford English spelling dictionary</name>
+        <name lang="en">Oxford English D spelling dictionary</name>
 		<!--
 		<name lang="fr">Dictionnaires d'orthographe, des synonymes, de grammaire et règle de coupure des mots anglais</name>
 		<name lang="de">Englisches Wörterbuch für Rechtschreibprüfung, Silbentrennung, Thesaurus und Grammatikprüfung</name>
@@ -28,7 +28,7 @@
     </icon>
 
     <publisher>
-		<name xlink:href="https://extensions.libreoffice.org/extensions/oxford-english-dictionary" lang="en">shill</name>
+		<name xlink:href="https://extensions.libreoffice.org/extensions/oxford-english-spellchecker" lang="en">shill</name>
     </publisher>
 	
 </description>
