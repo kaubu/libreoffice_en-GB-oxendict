@@ -23,7 +23,8 @@
     </dependencies>
 	
     <icon>
-        <default xlink:href="English.png" />
+        <!-- <default xlink:href="English.png" /> -->
+        <default xlink:href="icon.jpg" />
     </icon>
 
     <publisher>
