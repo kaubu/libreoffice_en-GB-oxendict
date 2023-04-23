@@ -1,0 +1,4 @@
+en-GB-oxendict 2023-04-24
+
+Initial build
+
