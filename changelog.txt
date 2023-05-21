@@ -1,4 +1,19 @@
+en-GB-oxendict 2023-04-28
+
+v1.1.0
+    Added 71,000 base words (their form in the dictionary, but not any inflections or conjugations)
+
 en-GB-oxendict 2023-04-24
 
-Initial build
+v1.0.2
+    Added some translations
+    Corrected extension URL
+    Minor changes
 
+v1.0.1
+
+    Minor fixes
+
+v1.0.0
+
+    Initial release
