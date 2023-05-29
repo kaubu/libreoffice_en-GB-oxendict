@@ -1,7 +1,14 @@
+en-GB-oxendict 2023-05-30
+
+v1.2.0
+	Added 18,192 base words (supporting inflections for the words added last update)
+	139,447 base words total (not counting inflections)
+
 en-GB-oxendict 2023-04-28
 
 v1.1.0
     Added 71,000 base words (their form in the dictionary, but not any inflections or conjugations)
+	121,255 base words total (and many more words provided by Chromium's inflection rules)
 
 en-GB-oxendict 2023-04-24
 
@@ -11,9 +18,7 @@ v1.0.2
     Minor changes
 
 v1.0.1
-
     Minor fixes
 
 v1.0.0
-
     Initial release

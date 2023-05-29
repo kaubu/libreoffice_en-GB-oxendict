@@ -1,4 +1,4 @@
 Oxford English dictionary for LibreOffice 4.0+.
 
 It includes:
-- en_GB_oxendict (dict last updated: 2020-12-07)
+- en_GB_oxendict (dict last updated: 2023-05-30)
